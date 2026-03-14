@@ -7,7 +7,4 @@ Here are a few things I might include later:
   *A way to contact me
 **Stay tuned for updates!**
 
-<!-- Add script to the <head> of your page to load the embeddable map component -->
-<script type="module" src="https://js.arcgis.com/5.0/embeddable-components/"></script>
-<!-- Add custom element to <body> of your page -->
- <arcgis-embedded-map style="height:600px;width:700px;" item-id="9adf757c4f5445f28dff77111150b0ff" theme="light" time-zone-label-enabled center="50.39512329799275,36.27150923683377"scale="36978595.474472" portal-url="https://univredlands.maps.arcgis.com"></arcgis-embedded-map>
+<iframe width="700" height="600" allow="local-network-access; geolocation" title="Ilkhanate Historical Map" src="https://univredlands.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=9adf757c4f5445f28dff77111150b0ff&theme=light&scroll=false&center=50.39512329799275,36.27150923683377&scale=36978595.474472" ></iframe>
